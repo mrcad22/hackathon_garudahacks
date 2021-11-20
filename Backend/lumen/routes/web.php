@@ -17,8 +17,15 @@ $router->get('/', function () use ($router) {
     return $router->app->version();
 });
 
-$router->group(['prefix' => 'api', 'middleware' => 'client'], function() use (&$router){
-
-});
+$router->group(
+    [
+    ],
+    function () use ($router) {
+        include 'transaction/StallRoute.php';
+        include 'transaction/RentRoute.php';
+        include 'transaction/GlobalAttachmentRoute.php';
+        include 'transaction/EventRoute.php';
+    }
+);
 
 
