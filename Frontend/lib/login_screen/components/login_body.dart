@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/global_components/round_button.dart';
-import 'package:gelarlapak/global_components/text_field.dart';
-import 'package:gelarlapak/home_page/_homepage.dart';
-import 'package:gelarlapak/login_screen/_landing.dart';
+import 'package:gelartikar/global_components/round_button.dart';
+import 'package:gelartikar/global_components/text_field.dart';
+import 'package:gelartikar/home_page/_homepage.dart';
+import 'package:gelartikar/login_screen/_landing.dart';
 import '_background.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:gelarlapak/_constant.dart';
+import 'package:gelartikar/_constant.dart';
 
 class LoginBody extends StatelessWidget{
 

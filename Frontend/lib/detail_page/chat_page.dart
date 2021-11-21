@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:gelarlapak/_constant.dart';
-import 'package:gelarlapak/detail_page/body.dart';
+import 'package:gelartikar/_constant.dart';
+import 'package:gelartikar/detail_page/body.dart';
 
 class ChatPage extends StatelessWidget{
   @override

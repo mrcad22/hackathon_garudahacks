@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/_constant.dart';
-import 'package:gelarlapak/detail_page/body.dart';
+import 'package:gelartikar/_constant.dart';
+import 'package:gelartikar/detail_page/body.dart';
 
 class DetailPage extends StatelessWidget{
   final String image, title;

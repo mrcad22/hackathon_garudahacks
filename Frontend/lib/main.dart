@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/login_screen/_login.dart';
+import 'package:gelartikar/login_screen/_login.dart';
 import '_constant.dart';
 import 'login_screen/_landing.dart';
 

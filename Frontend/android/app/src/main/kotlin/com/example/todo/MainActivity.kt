@@ -1,4 +1,4 @@
-package com.example.gelarlapak
+package com.example.gelartikar
 
 import io.flutter.embedding.android.FlutterActivity
 

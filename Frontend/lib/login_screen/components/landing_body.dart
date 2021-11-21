@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/global_components/round_button.dart';
+import 'package:gelartikar/global_components/round_button.dart';
 import '../_login.dart';
 import '_background.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:gelarlapak/_constant.dart';
+import 'package:gelartikar/_constant.dart';
 
 class LandingBody extends StatelessWidget{
 

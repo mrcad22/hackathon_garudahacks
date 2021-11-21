@@ -1,8 +1,8 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/_constant.dart';
-import 'package:gelarlapak/detail_page/detail_page.dart';
+import 'package:gelartikar/_constant.dart';
+import 'package:gelartikar/detail_page/detail_page.dart';
 
 class CardEvents extends StatelessWidget {
   final Size size;

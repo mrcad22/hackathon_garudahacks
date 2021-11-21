@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/_constant.dart';
-import 'package:gelarlapak/global_components/bottom_navigation.dart';
-import 'package:gelarlapak/home_page/_body.dart';
+import 'package:gelartikar/_constant.dart';
+import 'package:gelartikar/global_components/bottom_navigation.dart';
+import 'package:gelartikar/home_page/_body.dart';
 
 class HomePage extends StatelessWidget{
   var currentIndex = 0;

@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/_constant.dart';
-import 'package:gelarlapak/global_components/card.dart';
-import 'package:gelarlapak/global_components/round_button.dart';
+import 'package:gelartikar/_constant.dart';
+import 'package:gelartikar/global_components/card.dart';
+import 'package:gelartikar/global_components/round_button.dart';
 
 class Body extends StatelessWidget {
   Container headerSearch(size) {

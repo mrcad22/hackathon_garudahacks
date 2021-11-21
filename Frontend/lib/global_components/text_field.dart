@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/_constant.dart';
+import 'package:gelartikar/_constant.dart';
 
 class FormTextField extends StatelessWidget{
   final Widget child;

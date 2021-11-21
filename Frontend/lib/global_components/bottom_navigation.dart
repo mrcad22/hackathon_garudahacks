@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gelarlapak/detail_page/booking_page.dart';
-import 'package:gelarlapak/detail_page/chat_page.dart';
-import 'package:gelarlapak/detail_page/user_page.dart';
-import 'package:gelarlapak/home_page/_homepage.dart';
+import 'package:gelartikar/detail_page/booking_page.dart';
+import 'package:gelartikar/detail_page/chat_page.dart';
+import 'package:gelartikar/detail_page/user_page.dart';
+import 'package:gelartikar/home_page/_homepage.dart';
 
 class ButtonNavigation extends StatefulWidget {
   const ButtonNavigation({ Key? key }) : super(key: key);
