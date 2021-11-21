@@ -26,28 +26,3 @@ class HomePage extends StatelessWidget{
     );
   }
 }
-
-// Container(
-//         width: size.width, 
-//         height: 50, 
-//         decoration: const BoxDecoration(
-//         gradient: LinearGradient(
-//           begin: Alignment.topLeft,
-//           end:
-//               Alignment(1, 1), // 10% of the width, so there are ten blinds.
-//           colors: <Color>[
-//             Color(0xFF4978C0),
-//             Color(0xCC4978C0),
-//             Color(0xFF4978C0),
-//           ], // red to yellow
-//           tileMode: TileMode.repeated, // repeats the gradient over the canvas
-//         ),
-//       ),
-//         child: Expanded(child: Row(children: [
-//           IconButton(onPressed: null, icon: Icon(Icons.home)),
-//           IconButton(onPressed: null, icon: Icon(Icons.home)),
-//           IconButton(onPressed: null, icon: Icon(Icons.home)),
-//           IconButton(onPressed: null, icon: Icon(Icons.home)),
-//           IconButton(onPressed: null, icon: Icon(Icons.home)),
-//         ],)) ,
-//       ),
